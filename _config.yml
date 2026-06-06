@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   name             : "Catherine Y. Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Statistics and Data Science at Carnegie Mellon University "
