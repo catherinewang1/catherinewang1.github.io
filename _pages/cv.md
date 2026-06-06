@@ -16,4 +16,5 @@ redirect_from:
 * B.A. in Computer Science, University of California, Berkeley, 2020 -->
 
 
-[PDF](https://catherinewang1.github.io/files/example.pdf)
+[pdf](https://github.com/catherinewang1/catherinewang1.github.io/blob/master/files/CatherineWangCV.pdf)
+
