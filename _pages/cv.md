@@ -19,4 +19,14 @@ redirect_from:
 
 <!-- [pdf](https://github.com/catherinewang1/catherinewang1.github.io/blob/master/files/CatherineWangCV.pdf) -->
 
-<a href="../files/CatherineWangCV.pdf">pdf</a>
+<a href="../files/CatherineWangCV.pdf">(Download PDF)</a>
+
+
+<object data="../files/CatherineWangCV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../files/CatherineWangCV.pdf#pagemode=none">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/CatherineWangCV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+<!-- <iframe src="../files/CatherineWangCV.pdf#pagemode=none" width="100%" height="600"></iframe> -->
